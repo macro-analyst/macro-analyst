@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Dgiovany Antoine
 
-<!--
-**macro-analyst/macro-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on financial markets and macroeconomic data.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Excel (Data Analysis, Pivot Tables)
+- Python (Pandas, Data Analysis)
+- SQL (Learning)
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- USD vs JPY Market Analysis (returns, distributions, probabilities)
+
+## 🎯 Goal
+To become a professional data analyst and quantitative trader by building real-world market models and analyzing economic data.
